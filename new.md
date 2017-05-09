@@ -1,4 +1,5 @@
 ##this is header
 
-* bulle
+* bullet1
 [link to Google](http://www.google.com)
+* bullet2
